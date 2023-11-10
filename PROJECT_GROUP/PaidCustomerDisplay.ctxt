@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PaidCustomerDisplay
+comment1.params=
+comment1.target=PaidCustomerDisplay()
+comment2.params=
+comment2.target=void\ showPaidCustomers()
+comment3.params=
+comment3.target=void\ updatePaidCustomersArea()
+numComments=4

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Gui
+comment1.params=customerList\ qCounter1\ qCounter2\ qCounter3\ totalCustomer\ completedStack
+comment1.target=Gui(java.util.LinkedList,\ java.util.Queue,\ java.util.Queue,\ java.util.Queue,\ int,\ java.util.Stack)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=source
+comment3.target=void\ showQueueFrame(java.lang.Object)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ assignCustomersToCountersFromFile()
+comment6.params=
+comment6.target=void\ updateQueueStatusLabel()
+comment7.params=allCustomers
+comment7.target=void\ updateCustomerListFile(java.util.List)
+comment8.params=customer\ filename
+comment8.target=void\ writeCustomerToFile(CustomerInformation,\ java.lang.String)
+comment9.params=
+comment9.target=void\ showGui()
+numComments=10

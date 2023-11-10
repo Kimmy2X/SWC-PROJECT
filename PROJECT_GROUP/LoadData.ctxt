@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LoadData
+comment1.params=
+comment1.target=java.util.LinkedList\ loadData()
+comment2.params=filename\ n
+comment2.target=java.util.List\ loadFirstNCustomers(java.lang.String,\ int)
+comment3.params=filename\ n
+comment3.target=java.util.List\ loadRemainingCustomers(java.lang.String,\ int)
+numComments=4
